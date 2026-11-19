@@ -1,0 +1,18 @@
+{
+  "name": "Simulasi PPKA - Kepala Stasiun",
+  "short_name": "Simulasi PPKA",
+  "description": "Game simulasi Pengatur Perjalanan Kereta Api dan persinyalan stasiun.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0b1120",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
